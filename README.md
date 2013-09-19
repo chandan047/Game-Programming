@@ -1,4 +1,4 @@
 Game-Programming
 ================
 
-Java Game Programming for dummies
+My first 2D games using Java packages
